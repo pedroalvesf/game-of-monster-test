@@ -7,7 +7,6 @@ const getTypeMonsterById = (arrayId) => {
       return monsterFilterId[0].type
   });
 }
-
 const countMonstersDefeated = (type) => {
   if(!type) {
     const idMonster = monsters.map((monster) => monster.id);
