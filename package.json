@@ -1,0 +1,26 @@
+{
+  "name": "game-of-monster-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroalvesf/game-of-monster-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroalvesf/game-of-monster-test/issues"
+  },
+  "homepage": "https://github.com/pedroalvesf/game-of-monster-test#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
